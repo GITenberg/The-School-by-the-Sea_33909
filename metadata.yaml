@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2544
     wikipedia: http://en.wikipedia.org/wiki/Angela_Brazil
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33909#The-School-by-the-Sea
 gutenberg_issued: '2010-10-20'
 gutenberg_type: Text
 identifiers:
