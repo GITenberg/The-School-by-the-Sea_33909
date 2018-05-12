@@ -1,0 +1,29 @@
+_repo: The-School-by-the-Sea_33909
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33909-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Brazil, Angela
+    birthdate: 1869
+    deathdate: 1947
+    gutenberg_agent_id: '2544'
+    url: http://www.gutenberg.org/2009/agents/2544
+    wikipedia: http://en.wikipedia.org/wiki/Angela_Brazil
+description: ''
+gutenberg_issued: '2010-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33909'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Boarding schools -- England -- Juvenile fiction'
+- !lcsh 'Mystery fiction'
+title: The School by the Sea
+url: http://www.gutenberg.org/ebooks/33909
